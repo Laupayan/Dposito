@@ -14,7 +14,7 @@ import static cuentas.CCuenta.operativa_cuenta;
 public class Dposito {
 
     public static void main(String[] args) {
-         operativa_cuenta(3); //hola
+         operativa_cuenta(3); //hola laura
     }
 
  
