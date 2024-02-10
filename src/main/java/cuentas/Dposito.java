@@ -5,7 +5,6 @@
 package cuentas;
 
 import cuentas.CCuenta;
-import static cuentas.CCuenta.operativa_cuenta;
 
 /**
  *
@@ -14,8 +13,16 @@ import static cuentas.CCuenta.operativa_cuenta;
 public class Dposito {
 
     public static void main(String[] args) {
-         operativa_cuenta(3); //hola laura
+          
+      
+      CCuenta cuenta = new CCuenta();
+      cuenta.operativa_cuenta(3.5f);
+
     }
+
+  
+
+ 
 
  
     }

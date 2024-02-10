@@ -98,7 +98,7 @@ public class CCuenta {
     
     
     
-       {
+     public void  operativa_cuenta(float Cantidad) {
         CCuenta cuenta1;
         double saldoActual;
         
@@ -122,3 +122,5 @@ public class CCuenta {
        
 
 }
+
+//COMENTARIO SOBRE EJECUCCIÓN 
